@@ -1,52 +1,25 @@
-# プロダクトコンテキスト
+# Product Context
 
-## なぜこのプロジェクトが必要か
-Cline AIアシスタントは強力な機能を持つツールですが、その能力を最大限に活用するためには実践的な学習と経験が必要です。このプロジェクトは、実際の使用シナリオでClineを試し、学び、改善するための専用環境を提供します。
+## Purpose
+Cline Playground exists to provide a safe, experimental environment for users to learn and test Cline's capabilities. Unlike production repositories where mistakes could be costly, this playground encourages experimentation, trial-and-error, and exploration of Cline's full feature set.
 
-## 解決する問題
-1. AIアシスタントの活用における学習曲線
-   - Clineの機能と能力の理解
-   - 効果的な指示の出し方の習得
-   - メモリーバンクシステムの活用方法の習得
+## Problems It Solves
+- **Learning Barrier**: Provides a low-stakes environment to overcome the initial learning curve with Cline
+- **Feature Discovery**: Helps users discover and understand Cline's full range of capabilities
+- **Pattern Development**: Allows experimentation with different interaction patterns to find what works best
+- **Memory Bank Testing**: Enables testing of Memory Bank workflows and documentation strategies
 
-2. プロジェクト管理の課題
-   - AIとの効率的な協業方法の確立
-   - プロジェクト文脈の維持と共有
-   - 一貫性のある進捗管理
+## How It Should Work
+The playground should:
+- Be intuitive for newcomers to Cline
+- Provide clear examples of various use cases
+- Allow for easy experimentation with different tasks
+- Demonstrate effective Memory Bank usage
+- Show a progression from simple to more complex interactions
 
-3. 知識の蓄積と再利用
-   - プロジェクトパターンの記録
-   - 成功事例の文書化
-   - ベストプラクティスの確立
-
-## 期待されるユーザー体験
-1. スムーズな学習プロセス
-   - 段階的な機能の理解
-   - 実践を通じた学習
-   - 即座のフィードバック
-
-2. 効率的な協業
-   - 明確なコミュニケーション
-   - 一貫性のある対話
-   - 迅速な問題解決
-
-3. 知識の活用
-   - 過去の経験からの学習
-   - パターンの再利用
-   - 継続的な改善
-
-## 成功の指標
-1. 学習目標の達成
-   - Clineの主要機能の習得
-   - メモリーバンクの効果的な活用
-   - 複雑なタスクの完了
-
-2. 効率性の向上
-   - タスク完了時間の短縮
-   - エラーの減少
-   - スムーズな作業フロー
-
-3. 知識の蓄積
-   - 有用なパターンの特定
-   - ベストプラクティスの確立
-   - 再利用可能な解決策の作成
+## User Experience Goals
+- **Approachability**: Easy for newcomers to understand and use
+- **Educational Value**: Each interaction should teach something valuable about Cline
+- **Progressive Complexity**: Start simple, gradually introduce more advanced features
+- **Self-Documentation**: The repository itself should serve as documentation for effective Cline usage
+- **Reusability**: Patterns developed here should be applicable to real-world projects

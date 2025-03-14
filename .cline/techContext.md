@@ -1,105 +1,43 @@
-# 技術コンテキスト
+# Technical Context
 
-## 使用技術
+## Technologies Used
+This playground repository may incorporate various technologies based on specific experiments and demonstrations, but the core technologies include:
 
-### 1. 基本技術
-- Markdown
-  - ドキュメント作成の主要フォーマット
-  - Mermaid図表の活用
-  - 構造化された情報管理
+- **Git**: Version control for the repository
+- **Markdown**: Used for all Memory Bank documentation
+- **Cline AI**: The primary AI assistant being tested and utilized
 
-- Git
-  - バージョン管理
-  - 変更履歴の追跡
-  - コラボレーション管理
+Depending on the specific experiments, additional technologies may include:
+- JavaScript/TypeScript
+- HTML/CSS
+- Node.js
+- Python
+- Various frameworks and libraries
 
-### 2. 開発ツール
-- Visual Studio Code
-  - 主要な開発環境
-  - Markdownプレビュー機能
-  - Git統合機能
+## Development Setup
+The minimal setup required to use this playground includes:
 
-- Cline
-  - AIアシスタント
-  - メモリーバンクシステム
-  - ツール統合機能
+1. **Git**: For cloning and managing the repository
+2. **Text Editor/IDE**: VS Code is recommended for optimal Cline integration
+3. **Cline Integration**: Properly configured access to Cline AI through supported interfaces
 
-## 開発環境セットアップ
+Additional setup requirements will be documented within specific experiment directories as needed.
 
-### 1. 必要なツール
-- Git
-- Visual Studio Code
-- Cline拡張機能
+## Technical Constraints
+- **Memory Bank Limitations**: Cline's Memory Bank system has specific file structure requirements
+- **Context Length**: Cline has finite context windows that may limit the scope of individual interactions
+- **Tool Availability**: Available tools may vary based on Cline implementation and configurations
 
-### 2. 推奨設定
-- Markdownプレビュー有効化
-- Git自動フェッチ
-- ファイル自動保存
+## Dependencies
+As a playground, this repository aims to minimize external dependencies to focus on Cline's capabilities. Core dependencies include:
 
-### 3. 拡張機能
-- Markdown All in One
-- Git Lens
-- Cline
+- **Cline AI**: The primary dependency for all interactions
+- **Git**: Required for repository management
 
-## 技術的制約
+Specific experiments may introduce additional dependencies, which should be documented within their respective directories.
 
-### 1. ドキュメント制約
-- Markdown形式のみ使用
-- UTF-8エンコーディング
-- 日本語・英語の併用
-
-### 2. バージョン管理制約
-- Git履歴の維持
-- 明確なコミットメッセージ
-- ブランチ管理の簡素化
-
-### 3. ツール制約
-- VS Code互換の機能のみ使用
-- Clineの機能範囲内での実装
-- ローカル環境での実行
-
-## 依存関係
-
-### 1. 必須依存
-- Git >= 2.0
-- VS Code >= 1.60
-- Cline最新版
-
-### 2. オプション依存
-- Markdown拡張機能
-- Git関連ツール
-- 画像表示機能
-
-## セキュリティ考慮事項
-
-### 1. データ保護
-- 機密情報の排除
-- 個人情報の非保存
-- アクセス制御の確認
-
-### 2. コード安全性
-- 実行コードの制限
-- スクリプトのサンドボックス化
-- 依存関係の検証
-
-### 3. 環境保護
-- バックアップの推奨
-- 破壊的操作の防止
-- エラー回復手順の提供
-
-## パフォーマンス考慮事項
-
-### 1. レスポンス時間
-- 即時的なファイルアクセス
-- 迅速な更新反映
-- スムーズな操作性
-
-### 2. リソース使用
-- 最小限のメモリ使用
-- 効率的なストレージ利用
-- 処理負荷の最適化
-
-### 3. スケーラビリティ
-- ドキュメント数の増加対応
-- 大規模プロジェクト対応
-- 柔軟な拡張性
+## Technical Guidelines
+- Prefer simplicity and clarity over complexity
+- Document all experimental approaches thoroughly
+- Include comments that explain the purpose of demonstrations
+- Organize code in a way that highlights specific Cline capabilities being demonstrated

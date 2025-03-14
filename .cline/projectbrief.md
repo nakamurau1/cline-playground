@@ -1,24 +1,21 @@
-# プロジェクト概要
+# Project Brief: Cline Playground
 
-## 目的
-このリポジトリは、Cline AIアシスタントの使用方法を学習し、実験するための環境として機能します。
+## Overview
+This repository serves as a playground for learning and experimenting with Cline, an AI assistant with specialized capabilities for software development.
 
-## 主要な目標
-1. Clineのメモリーバンクシステムの理解と効果的な活用方法の習得
-2. AIアシスタントとの効率的な協業パターンの確立
-3. プロジェクト管理におけるAIの活用方法の実践
+## Core Goals
+- Explore Cline's capabilities and limitations
+- Test different interaction patterns with Cline
+- Experiment with various development tasks and workflows
+- Learn how to effectively utilize Cline's Memory Bank system
 
-## 期待される成果
-- Clineの機能と能力の深い理解
-- メモリーバンクを活用した効果的なプロジェクト管理の実現
-- AIアシスタントとの最適な協業フローの確立
+## Target Audience
+- Developers interested in AI-assisted development
+- Users exploring AI capabilities for coding and software engineering
+- Cline's team members testing and demonstrating functionality
 
-## スコープ
-- Clineの基本機能の実験と検証
-- メモリーバンクシステムの活用事例の蓄積
-- 様々なプロジェクトタイプでのAI活用パターンの開発
-
-## 制約条件
-- 学習目的の環境のため、本番システムは含まない
-- セキュリティ上重要な情報は含めない
-- 実験的な性質を維持する
+## Success Criteria
+- Successfully demonstrate Cline's ability to understand and execute development tasks
+- Build a collection of examples showcasing Cline's capabilities
+- Establish effective patterns for Memory Bank usage and documentation
+- Create a reference implementation that shows best practices for working with Cline
